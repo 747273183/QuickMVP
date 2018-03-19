@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuickMVP</string>
+    <string name="timeout_error_tip">Sorry,似乎发生了一点意外</string>
+    <string name="double_click_log_out">再点一次退出APP</string>
+    <string name="bottom_tab_1">tab1</string>
+    <string name="bottom_tab_2">tab2</string>
+    <string name="bottom_tab_3">tab3</string>
+    <string name="bottom_tab_4">tab4</string>
+    <string name="end">END</string>
+</resources>

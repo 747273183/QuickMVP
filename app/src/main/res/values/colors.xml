@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="line">#EAEAEA</color>
+    <color name="bottom_bar_bg">@color/black60</color>
+    <color name="bottom_bar_tab_active_bg">#BF3EFF</color>
+    <color name="bottom_bar_tab_inactive_bg">#80000000</color>
+    <color name="bottom_bar_tab_badge_bg">#FF0000</color>
+
+    <!-- 关于TakePhoto -->
+    <string name="album_view">选择图片</string>
+    <string name="image_view">单击选择</string>
+    <string name="add">确定</string>
+    <string name="selected">已选</string>
+    <string name="limit_exceeded">最多能选 %d 张</string>
+    <!--状态栏,ToolBar背景-->
+    <color name="multiple_image_select_primaryDark">#000000</color>
+    <color name="multiple_image_select_primary">#000000</color>
+    <!-- 关于TakePhoto -->
+    <color name="bottom_bar_text_check">#ffede938</color>
+    <color name="bottom_bar_text_normal">@color/white95</color>
+    <!--黑色透明度值-->
+    <color name="black">#FF000000</color>
+    <color name="black0">#00000000</color>
+    <color name="black1">#03000000</color><!--黑色 -->
+    <color name="black2">#05000000</color><!--黑色 -->
+    <color name="black3">#08000000</color><!--黑色 -->
+    <color name="black4">#0A000000</color><!--黑色 -->
+    <color name="black5">#0D000000</color><!--黑色 -->
+    <color name="black6">#0F000000</color><!--黑色 -->
+    <color name="black7">#12000000</color><!--黑色 -->
+    <color name="black8">#14000000</color><!--黑色 -->
+    <color name="black9">#17000000</color><!--黑色 -->
+    <color name="black10">#1A000000</color><!--黑色 -->
+    <color name="black15">#26000000</color><!--黑色 -->
+    <color name="black20">#33000000</color><!--黑色 -->
+    <color name="black25">#40000000</color><!--黑色 -->
+    <color name="black30">#4D000000</color><!--黑色 -->
+    <color name="black35">#59000000</color><!--黑色 -->
+    <color name="black40">#66000000</color><!--黑色 -->
+    <color name="black45">#73000000</color><!--黑色 -->
+    <color name="black50">#80000000</color><!--黑色 -->
+    <color name="black55">#8C000000</color><!--黑色 -->
+    <color name="black60">#99000000</color><!--黑色 -->
+    <color name="black65">#A6000000</color><!--黑色 -->
+    <color name="black70">#B3000000</color><!--黑色 -->
+    <color name="black75">#BF000000</color><!--黑色 -->
+    <color name="black80">#CC000000</color><!--黑色 -->
+    <color name="black85">#D9000000</color><!--黑色 -->
+    <color name="black90">#E6000000</color><!--黑色 -->
+    <color name="black91">#E8000000</color><!--黑色 -->
+    <color name="black92">#EB000000</color><!--黑色 -->
+    <color name="black93">#ED000000</color><!--黑色 -->
+    <color name="black94">#F0000000</color><!--黑色 -->
+    <color name="black95">#F2000000</color><!--黑色 -->
+    <color name="black96">#F5000000</color><!--黑色 -->
+    <color name="black97">#F7000000</color><!--黑色 -->
+    <color name="black98">#FA000000</color><!--黑色 -->
+    <color name="black99">#FC000000</color><!--黑色 -->
+
+
+    <!--白色透明度值-->
+    <color name="white">#FFFFFFFF</color>
+    <color name="white0">#00FFFFFF</color>
+    <color name="white1">#03FFFFFF</color>
+    <color name="white2">#05FFFFFF</color>
+    <color name="white3">#08FFFFFF</color>
+    <color name="white4">#0AFFFFFF</color>
+    <color name="white5">#0DFFFFFF</color>
+    <color name="white6">#0FFFFFFF</color>
+    <color name="white7">#12FFFFFF</color>
+    <color name="white8">#14FFFFFF</color>
+    <color name="white9">#17FFFFFF</color>
+    <color name="white10">#1AFFFFFF</color>
+    <color name="white15">#26FFFFFF</color>
+    <color name="white20">#33FFFFFF</color>
+    <color name="white25">#40FFFFFF</color>
+    <color name="white30">#4DFFFFFF</color>
+    <color name="white35">#59FFFFFF</color>
+    <color name="white40">#66FFFFFF</color>
+    <color name="white45">#73FFFFFF</color>
+    <color name="white50">#80FFFFFF</color>
+    <color name="white55">#8CFFFFFF</color>
+    <color name="white60">#99FFFFFF</color>
+    <color name="white65">#A6FFFFFF</color>
+    <color name="white70">#B3FFFFFF</color>
+    <color name="white75">#BFFFFFFF</color>
+    <color name="white80">#CCFFFFFF</color>
+    <color name="white85">#D9FFFFFF</color>
+    <color name="white90">#E6FFFFFF</color>
+    <color name="white91">#E8FFFFFF</color>
+    <color name="white92">#EBFFFFFF</color>
+    <color name="white93">#EDFFFFFF</color>
+    <color name="white94">#F0FFFFFF</color>
+    <color name="white95">#F2FFFFFF</color>
+    <color name="white96">#F5FFFFFF</color>
+    <color name="white97">#F7FFFFFF</color>
+    <color name="white98">#FAFFFFFF</color>
+    <color name="white99">#FCFFFFFF</color>
+
+    <!--灰色透明度值-->
+    <color name="gray">#808080</color>
+    <color name="gray0">#00808080</color>
+    <color name="gray1">#03808080</color>
+    <color name="gray2">#05808080</color>
+    <color name="gray3">#08808080</color>
+    <color name="gray4">#0A808080</color>
+    <color name="gray5">#0D808080</color>
+    <color name="gray6">#0F808080</color>
+    <color name="gray7">#12808080</color>
+    <color name="gray8">#14808080</color>
+    <color name="gray9">#17808080</color>
+    <color name="gray10">#1A808080</color>
+    <color name="gray15">#26808080</color>
+    <color name="gray20">#33808080</color>
+    <color name="gray25">#40808080</color>
+    <color name="gray30">#4D808080</color>
+    <color name="gray35">#59808080</color>
+    <color name="gray40">#66808080</color>
+    <color name="gray45">#73808080</color>
+    <color name="gray50">#80808080</color>
+    <color name="gray55">#8C808080</color>
+    <color name="gray60">#99808080</color>
+    <color name="gray65">#A6808080</color>
+    <color name="gray70">#B3808080</color>
+    <color name="gray75">#BF808080</color>
+    <color name="gray80">#CC808080</color>
+    <color name="gray85">#D9808080</color>
+    <color name="gray90">#E6808080</color>
+    <color name="gray91">#E8808080</color>
+    <color name="gray92">#EB808080</color>
+    <color name="gray93">#ED808080</color>
+    <color name="gray94">#F0808080</color>
+    <color name="gray95">#F2808080</color>
+    <color name="gray96">#F5808080</color>
+    <color name="gray97">#F7808080</color>
+    <color name="gray98">#FA808080</color>
+    <color name="gray99">#FC808080</color>
+</resources>
